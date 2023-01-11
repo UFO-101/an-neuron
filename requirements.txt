@@ -1,6 +1,0 @@
-git+https://github.com/neelnanda-io/Easy-Transformer.git
-git+https://github.com/neelnanda-io/PySvelte.git
-matplotlib
-inflect
-ipykernel
-black[jupyter]
